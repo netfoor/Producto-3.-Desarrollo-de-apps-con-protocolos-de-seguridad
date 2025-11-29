@@ -1,6 +1,38 @@
-﻿node_modules/
+﻿# Dependencies
+node_modules/
+package-lock.json
+
+# Environment variables
 .env
+
+# Uploads (archivos subidos por usuarios)
 uploads/
+
+# Keys (claves privadas generadas)
 keys/
 *.pem
 *.key
+*.crt
+
+# Database (base de datos local)
+backend/data/db.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build
+dist/
+build/
