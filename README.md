@@ -134,6 +134,16 @@ Este proyecto implementa múltiples capas de seguridad:
 
 MIT
 
-## 👨‍💻 Autor
+## 👥 Colaboradores
 
-Proyecto educativo para demostrar integración de protocolos de seguridad, firmas digitales y blockchain.
+Este proyecto fue desarrollado por:
+
+- **Fortino Romero Mantilla**
+- **Israel Jesus Garcia Osorio**
+- **Luis Joel Gomez Herrera**
+
+---
+
+**Proyecto Educativo** - Noviembre 2025
+
+Demostración práctica de integración de protocolos de seguridad, firmas digitales y blockchain.
