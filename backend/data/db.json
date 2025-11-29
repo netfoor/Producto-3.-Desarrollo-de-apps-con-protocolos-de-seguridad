@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "id": "eeaecc42-28e5-4fb6-90bc-b10bee6de9be",
+      "username": "Fortino",
+      "email": "fortino.romero.man@gmail.com",
+      "createdAt": "2025-11-29T03:25:27.826Z",
+      "hasCertificate": true,
+      "hasKeyPair": true
+    },
+    {
+      "id": "c57319ce-148a-4977-a259-8c989e654928",
+      "username": "Fortino1",
+      "email": "fortino.rom@gmail.com",
+      "createdAt": "2025-11-29T03:37:48.279Z",
+      "hasCertificate": true,
+      "hasKeyPair": true
+    },
+    {
+      "id": "fac1a30e-b3a1-42ed-97e4-91e966eebed9",
+      "username": "Fortino32",
+      "email": "for@gmail.com",
+      "createdAt": "2025-11-29T04:08:19.090Z",
+      "hasCertificate": true,
+      "hasKeyPair": true
+    }
+  ],
+  "documents": [
+    {
+      "id": "8d78d047-47b3-44a6-92af-919a1fe139c1",
+      "filename": "1764389532767-palabras.pdf",
+      "originalName": "palabras.pdf",
+      "userId": "fac1a30e-b3a1-42ed-97e4-91e966eebed9",
+      "hash": "695aa2cf4faa50664f6cb9cd8c5814a7ac4b7dd3db97a81a156d1fcd0499df76",
+      "size": 41149,
+      "uploadedAt": "2025-11-29T04:12:12.812Z",
+      "encrypted": false,
+      "signed": true,
+      "signature": "EZrkEyV3bV7OcE2V2rt7QsFgJ8wN9EygpOyDhCD+TDxza7gJf3P9gKp+1Y82mFYW0rnSWSHqnloP+jZAdGWlEE0ZLbk/YTm1ltVyH9sCqorlfkKNX0qp7J36eues97yoUL+kJ/0zgTJXEXUyiLvAuhVIjxBVb1rwTReB+46DlPWGW5P76sKit6ZrBm/z1ep0XqGP8l1A258057HTLAIsBIoVj02ZxoeGZI9uFNAPDOa8jOgXDJEuX+OM43F4sedGhPp7ut+IALg6/vdiLrDP9NzZ1b/ycVTyCWUjSQqFZggY9FRK3HWW51YULqUv3Ci7z8ylOVo6nGYZdZMYuPnjXg==",
+      "signedAt": "2025-11-29T04:12:18.624Z",
+      "registeredInBlockchain": true,
+      "blockchainIndex": 1
+    }
+  ]
+}
